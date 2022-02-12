@@ -1,0 +1,146 @@
+
+body {
+	background-color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+#firstchain {
+	position:absolute;
+    width: 7em;
+    top: -2em;
+    left: 0!important;
+}
+
+#nextchain{
+	position: absolute;
+    width: 7em;
+    margin-top: 4em;
+    left: 0!important;
+}
+
+#lastchain{
+	position: absolute;
+    width: 7em;
+    margin-top: 10em;
+    left: 0!important;
+}
+
+#header {
+    text-align: left;
+	font-family: Archivo Black;
+    background-color: #1E7BF8;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 2em;
+	line-height: 1em;
+	color: #000000;
+    padding: 0.1em;
+    padding-right: 0em!important;
+    padding-left: 50%;
+}
+.zone {
+    font-family: Archivo white;
+    font-size: 3em;
+    margin-left: 6em;
+    text-align:left
+    
+}
+
+.navbar {
+	font-family: Archivo;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 1em;
+	line-height: 1em;
+	color: #1e7bf8;
+	position: relative;
+	background-color: black;
+	border-radius: 50px 0px 0px 50px;
+	padding: 0.5em;
+    margin-bottom: 1.5em;
+
+}
+
+.game{ 
+    text-align: center;
+    font-family: Archivo Black;
+    background-color: #A7C963;
+	font-size: 2em;
+	line-height: 1em;
+	color: #000000;
+    padding: 1em;
+    margin: 2em;
+    border-radius: 2em;
+}
+
+.play{ 
+    text-align: center;
+    background-color: #1e7bf8;
+	font-size: 2em;
+	line-height: 1em;
+	color: black;
+    padding: 0.1em;
+    margin: 2em;
+    border-radius: 2em;
+
+}
+#myBtn {
+    
+  
+  #myBtn:hover {
+    background-color: rgb(85, 85, 85);
+  }
+
+}
+h3{ 
+   padding: 1em;
+   margin: 1em;
+   text-align: left;
+   margin-top: 15em;
+   color: #1E7BF8;
+}
+
+
+#container {
+	margin: 0px auto;
+	border: 1px;
+}
+
+#content {
+	background-color: black;
+    color: white;
+}
+
+.quote {
+    font-family: Archivo white;
+    margin-left: 14em;
+    text-align:left
+
+}
+
+footer{
+    border-top: 4px solid #1e7bf8;
+    display: flex;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    line-height: 15px;
+    padding: 0.5em;
+}
+
+#left-footer {
+    display: inline-block;
+    align-self: flex-end;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding: 0.5em;
+}
+
+#right-footer {
+    text-align: center!important;
+    margin-bottom: auto;
+    padding: 0.5em;
+    width: 100%;
+}
+
+
